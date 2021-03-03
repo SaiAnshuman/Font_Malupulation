@@ -1,0 +1,44 @@
+.heading{
+
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 10px rgb(193, 0, 252);
+   
+   }
+   
+   .note{
+   
+    color: burlywood;
+    font-size: 14px;
+   
+   
+   }
+   
+   .footer{
+   
+       width:100%;
+       bottom:0px;
+       position: fixed;
+       font-size: 23px;
+       background-color: rgb(185, 16, 143);
+       color: rgb(128, 0, 0);
+       line-height: 3;
+       text-align: center;
+   
+   }
+   
+   canvas{
+   
+    box-shadow: 5px 5px 15px rgb(255, 4, 16);
+    border: 15px double rgb(255, 0, 191);
+    border-radius: 17px;
+   
+   }
+
+   body{
+
+
+   background-size: cover;
+
+   }
