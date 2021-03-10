@@ -48,8 +48,8 @@ function setup(){
    function draw(){
    
    background("#D48ECD");
-  textSize(23);
-  text("Sai Anshuman" , noseX , noseY)
+  textSize(difference);
+  text("Hello" , noseX , noseY)
 
 
 document.getElementById("sqr_size").innerHTML = "width and height of the text is: " + difference + "px";
